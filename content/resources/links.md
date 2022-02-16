@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains the general links of ims  and SCRIMP Technology.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-996-sailing-yacht-design-13-734-fall-2003/a4e932554db14be53371f1ecb7e751fc_links.pdf
+file: /media/courses/2-996-sailing-yacht-design-13-734-fall-2003/a4e932554db14be53371f1ecb7e751fc_links.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: General Links
 uid: a4e93255-4db1-4be5-3371-f1ecb7e751fc

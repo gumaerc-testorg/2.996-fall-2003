@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-996-sailing-yacht-design-13-734-fall-2003/8a828fc56830fdc913c8d1928bcb665e_ps_3.pdf
+file: /media/courses/2-996-sailing-yacht-design-13-734-fall-2003/8a828fc56830fdc913c8d1928bcb665e_ps_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps_3.pdf
 uid: 8a828fc5-6830-fdc9-13c8-d1928bcb665e

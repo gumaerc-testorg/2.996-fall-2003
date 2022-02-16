@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Part 2 of a sample student design. (Courtesy of Alexis Manneville.)
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-996-sailing-yacht-design-13-734-fall-2003/31f93c4b94e672379722727d253b4320_manneville_2.pdf
+file: /media/courses/2-996-sailing-yacht-design-13-734-fall-2003/31f93c4b94e672379722727d253b4320_manneville_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: manneville_2.pdf
 uid: 31f93c4b-94e6-7237-9722-727d253b4320
