@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 07f549fd-6b15-5ebc-5d7c-d6cf6d7c82c0
 resourcetype: Document
 title: cairoli_5.pdf
 uid: caa6fc4c-6fcd-1a41-961c-7fcf884bb194

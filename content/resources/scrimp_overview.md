@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 881bdff8-0798-b609-1855-e8d1b9ee038f
 resourcetype: Document
 title: "An Overview of the SCRIMP\u2122  Technology  "
 uid: 48e0dcf1-9a21-c51e-740b-cc08c4f1dfdf

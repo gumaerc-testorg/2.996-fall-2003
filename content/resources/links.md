@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 881bdff8-0798-b609-1855-e8d1b9ee038f
 resourcetype: Document
 title: General Links
 uid: a4e93255-4db1-4be5-3371-f1ecb7e751fc

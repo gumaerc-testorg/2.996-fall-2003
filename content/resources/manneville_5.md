@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 07f549fd-6b15-5ebc-5d7c-d6cf6d7c82c0
 resourcetype: Document
 title: manneville_5.pdf
 uid: cdedd08f-6e71-29ba-d153-e63a5cf731fb

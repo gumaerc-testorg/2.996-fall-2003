@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 881bdff8-0798-b609-1855-e8d1b9ee038f
 resourcetype: Document
 title: International Measurement  System
 uid: 6c7d5651-c343-bc59-5339-da09f309306c

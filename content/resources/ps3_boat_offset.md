@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 30e0ea99-dd4e-93a6-af07-00d812710639
 resourcetype: Other
 title: ps3_boat_offset.xls
 uid: c8ca0885-5779-e2f5-a88d-15fa4ef82846

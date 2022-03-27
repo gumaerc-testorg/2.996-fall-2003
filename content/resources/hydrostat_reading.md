@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 30e0ea99-dd4e-93a6-af07-00d812710639
 resourcetype: Document
 title: hydrostat_reading.pdf
 uid: 6d52581f-5ae0-4fc1-b0df-4910226a742e
