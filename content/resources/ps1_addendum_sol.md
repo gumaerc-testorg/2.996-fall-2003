@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-996-sailing-yacht-design-13-734-fall-2003/fd9a047f53735fefbc4bdf7f3e204553_ps1_addendum_sol.pdf
+file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/fd9a047f53735fefbc4bdf7f3e204553_ps1_addendum_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
