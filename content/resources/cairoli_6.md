@@ -5,6 +5,7 @@ file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/5423d2c59417c1a007778
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cairoli_6.pdf
 uid: 5423d2c5-9417-c1a0-0777-8dcdb54e17b3
 ---
 Part 6 of a sample student design. (Courtesy of Claudio Cairoli.)
-

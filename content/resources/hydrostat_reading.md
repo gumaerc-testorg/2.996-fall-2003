@@ -5,6 +5,7 @@ file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/6d52581f5ae04fc1b0df4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

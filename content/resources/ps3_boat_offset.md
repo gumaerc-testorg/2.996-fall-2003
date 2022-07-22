@@ -5,6 +5,7 @@ file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/c8ca08855779e2f5a88d1
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps3_boat_offset.xls
 uid: c8ca0885-5779-e2f5-a88d-15fa4ef82846
 ---
 This spreadsheet contains data for Problem Set 3.
-

@@ -5,6 +5,7 @@ file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/0a4b4eea29ac3b809a4ac
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: manneville_1.pdf
 uid: 0a4b4eea-29ac-3b80-9a4a-c5f416498efa
 ---
 Part 1 of a sample student design. (Courtesy of Alexis Manneville.)
-

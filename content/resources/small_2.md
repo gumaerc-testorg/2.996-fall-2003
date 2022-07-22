@@ -5,6 +5,7 @@ file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/df9f03abf39feb482e8e4
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: small_2.pdf
 uid: df9f03ab-f39f-eb48-2e8e-4539684de9f5
 ---
 Part 2 of a sample student design. (Courtesy of Pete Small.)
-
