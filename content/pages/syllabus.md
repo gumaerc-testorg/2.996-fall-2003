@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: fdd9fda6-f777-b3b3-fe32-f31608710149
 ---
@@ -22,7 +25,7 @@ Larsson, Lars and Rolf E. Eliasson. _Principles of Yacht Design_ New York, NY: M
 
 Although the entire part of the textbook related to sailing vessels is relevant, the reading assignments are pages: 1-55, 56-131, 132-263, 295-225, 226-268, 297-310, and 311-321. The student must acquire this book in order to study this course.
 
-Hydrostatics is a crucial sub-topic in sailing yacht design. It includes the level at which the boat floats, the fore and aft trim, and the transverse stability which is inextricably linked to the power that can be absorbed from the sails. The course contains more about hydrostatic fundamentals than is covered in the aforementioned textbook. In addition to lectures on hydrostatics, this material is augmented in an MIT Department of Ocean Engineering set of printed notes titled [Ocean Engineering Hydrostatics]({{< baseurl >}}/resources/hydrostat_reading) (September 1991) by Justin E. Kerwin and available from the M.I.T. Department of Ocean Engineering. The reading assignment from these printed notes is pages 1-41. This assignment should be read immediately after reading pages 1-55 in and Eliasson text, or the two reading assignments can be woven together after which the student should do Problem Set number 1.
+Hydrostatics is a crucial sub-topic in sailing yacht design. It includes the level at which the boat floats, the fore and aft trim, and the transverse stability which is inextricably linked to the power that can be absorbed from the sails. The course contains more about hydrostatic fundamentals than is covered in the aforementioned textbook. In addition to lectures on hydrostatics, this material is augmented in an MIT Department of Ocean Engineering set of printed notes titled {{% resource_link 6d52581f-5ae0-4fc1-b0df-4910226a742e "Ocean Engineering Hydrostatics" %}} (September 1991) by Justin E. Kerwin and available from the M.I.T. Department of Ocean Engineering. The reading assignment from these printed notes is pages 1-41. This assignment should be read immediately after reading pages 1-55 in and Eliasson text, or the two reading assignments can be woven together after which the student should do Problem Set number 1.
 
 The design spiral, illustrated on page 5 of the textbook needs to be started with an initial set of preliminary design parameters. A procedure for establishing these is a link on this Web site and its study should be interwoven with reading pages 56-131 of the textbook. The preliminary design requires an estimate of the approximate transverse stability for small to moderate heel angles. A method for estimated this is included as a link on this Web site.
 
