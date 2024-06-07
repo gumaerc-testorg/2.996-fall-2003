@@ -2,6 +2,7 @@
 content_type: resource
 description: Part 1 of a sample student design. (Courtesy of Pete Small.)
 file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/87f66302ed3ebf365f4542ad2bb815d3_small_1.pdf
+file_size: 1257989
 file_type: application/pdf
 learning_resource_types:
 - Projects

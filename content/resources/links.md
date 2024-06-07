@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the general links of ims  and SCRIMP Technology.
 file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/a4e932554db14be53371f1ecb7e751fc_links.pdf
+file_size: 24055
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
