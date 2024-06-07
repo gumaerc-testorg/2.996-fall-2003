@@ -2,6 +2,7 @@
 content_type: resource
 description: Part 2 of a sample student design. (Courtesy of Claudio Cairoli.)
 file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/564b06bbb9468252c5e6881da9d4db6c_cairoli_2.pdf
+file_size: 2110317
 file_type: application/pdf
 learning_resource_types:
 - Projects

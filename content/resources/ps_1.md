@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/23dab98ea9eae7036dcb17b0f50decff_ps_1.pdf
+file_size: 21910
 file_type: application/pdf
 learning_resource_types:
 - Assignments

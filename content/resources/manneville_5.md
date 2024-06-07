@@ -2,6 +2,7 @@
 content_type: resource
 description: Part 5 of a sample student design. (Courtesy of Alexis Manneville.)
 file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/cdedd08f6e7129bad153e63a5cf731fb_manneville_5.pdf
+file_size: 802376
 file_type: application/pdf
 learning_resource_types:
 - Projects
