@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This spreadsheet contains data for Problem Set 3.
-file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/c8ca08855779e2f5a88d15fa4ef82846_ps3_boat_offset.xls
+file: /ol-ocw-studio-app/courses/2-996-sailing-yacht-design-13-734-fall-2003/c8ca08855779e2f5a88d15fa4ef82846_ps3_boat_offset.xls
 file_size: 24576
 file_type: application/msword
 learning_resource_types:
