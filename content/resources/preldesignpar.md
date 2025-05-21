@@ -7,7 +7,7 @@ description: 'This document does not stand alone. Rather, it is to be used with 
   the textbook
 
   which are simply called "Figures" in the following.'
-file: /ol-ocw-studio-app/courses/2-996-sailing-yacht-design-13-734-fall-2003/82b76f4b848406668387069d182990a7_preldesignpar.pdf
+file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/82b76f4b848406668387069d182990a7_preldesignpar.pdf
 file_size: 32436
 file_type: application/pdf
 learning_resource_types:

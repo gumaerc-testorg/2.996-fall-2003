@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-996-sailing-yacht-design-13-734-fall-2003/487eb8f2adae6789acc44e8949c16043_ps_2.pdf
+file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/487eb8f2adae6789acc44e8949c16043_ps_2.pdf
 file_size: 16322
 file_type: application/pdf
 learning_resource_types:

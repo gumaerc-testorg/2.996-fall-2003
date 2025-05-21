@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz problems.
-file: /ol-ocw-studio-app/courses/2-996-sailing-yacht-design-13-734-fall-2003/38d561db80ca798ec6c209d3602785e8_quiz.pdf
+file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/38d561db80ca798ec6c209d3602785e8_quiz.pdf
 file_size: 74434
 file_type: application/pdf
 learning_resource_types:
