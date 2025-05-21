@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Part 1 of a sample student design. (Courtesy of Claudio Cairoli.)
-file: /ol-ocw-studio-app/courses/2-996-sailing-yacht-design-13-734-fall-2003/11b5942a9f6d7ecd5a873829117ff92f_cairoli_1.pdf
+file: /courses/2-996-sailing-yacht-design-13-734-fall-2003/11b5942a9f6d7ecd5a873829117ff92f_cairoli_1.pdf
 file_size: 1813343
 file_type: application/pdf
 learning_resource_types:
